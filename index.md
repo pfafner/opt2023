@@ -30,6 +30,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Horario
 <div id='id-horario'/>
 
+* Martes y jueves de 19:50 a 21:25.
 
 ### Office Hours
 <div id='id-office'/>
