@@ -42,7 +42,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
  **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 05.07.2023   | Introducción al curso. Normas matriciales.                                | Libro de Trefethen, Lecture 3.
+  01      | 04.07.2023   | Introducción al curso. Normas matriciales.                                | Libro de Trefethen, Lecture 3.
 
   
 # Proyectos
