@@ -52,3 +52,28 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Referencias
 <div id='id-ref'/>
 
+### Textos:
+
+* [L. Trefethen, L. Bau III (1997). *Numerical Linear Algebra*.](http://library.lol/main/079EA6C3FD8CDF23B0C2ACD901CA9A26){:target="_blank"}
+
+* [J. Nocedal, S. Wright (2006). *Numerical Optimization*.](http://library.lol/main/7016B74CFE6DC64C75864322EE4AA081){:target="_blank"}
+
+* [D. Luenberger, Y. Ye (2016). *Linear and Nonlinear Programming*.](http://library.lol/main/EB915E0FDCC8D3BA222B37C9A3DD6B4F){:target="_blank"}
+
+### Referencias adicionales:
+
+* [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
+
+* [G. Golub, C. Van Loan (2012). *Matrix Computations*.](http://library.lol/main/72562A3A733C2E842BE163CA97D0FA7A){:target="_blank"}
+
+* [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](http://library.lol/main/7D136BC80ECBF0BA65798EC129FCCAF4){:target="_blank"}
+
+* [J. Stoer, R. Bulirsch (2002). *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
+
+* [A. Izmailov, M. Solodov (2014). *Newton-type for Optimization and Variational Problems*.](http://library.lol/main/C8C3ED2461D9C8C2608595B223ABDD91){:target="_blank"}
+
+* [S. Boyd, L. Vandenberghe (2009). *Convex Optimization*.](http://library.lol/main/A9A5D9C3CA105DB0F41AF39A6C89706C){:target="_blank"}
+
+* [C. Meyer (2001). *Matrix Analysis and Applied Linear Algebra*.](http://library.lol/main/7EF368F2EA42EB4E48F09EA438C1822E){:target="_blank"}
+
+---
