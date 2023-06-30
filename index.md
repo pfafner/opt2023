@@ -48,6 +48,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Proyectos
 <div id='id-proyectos'/>
 
+* Se indicarán más adelante.
+
 
 # Referencias
 <div id='id-ref'/>
