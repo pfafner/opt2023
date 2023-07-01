@@ -1,7 +1,5 @@
 # Métodos Numéricos II 2023
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Warning_icon.svg" width="60">  **Site on construction!**
-
 Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: 
 
 (1) Álgebra lineal computacional, 
