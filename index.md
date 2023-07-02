@@ -46,7 +46,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Proyectos
 <div id='id-proyectos'/>
 
-* Se indicarán más adelante.
+En el curso se desarrollarán dos proyectos, los cuales se indicarán más adelante.
 
 
 # Referencias
