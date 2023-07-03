@@ -28,7 +28,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Horario
 <div id='id-horario'/>
 
-* Martes y jueves de 19:50 a 21:25.
+* Martes de 19:50 a 21:25 CIT-501, y Jueves de 19:50 a 21:25 CIT-414.
 
 ### Office Hours
 <div id='id-office'/>
