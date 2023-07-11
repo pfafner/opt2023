@@ -41,7 +41,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
  **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 04.07.2023   | Introducción al curso. Normas matriciales.                                | Libro de Trefethen, Lecture 3.
+  01      | 04.07.2023   | Introducción al curso. Normas matriciales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Libro de Trefethen, Lecture 3.
   02      | 06.07.2023   | Ejemplo de norma 2. Conceptos: kernel, rango, error.                      |  
 
   
