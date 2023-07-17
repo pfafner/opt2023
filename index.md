@@ -43,8 +43,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
   01      | 04.07.2023   | Introducción al curso. Normas matriciales. [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Tref. Lecture 3. 
   02      | 06.07.2023   | Ejemplo de norma 2. Conceptos: kernel, nulidad, rango. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Tref. Lecture 3. <br/> [norms.ipynb](code/norms.ipynb){:target="_blank"} 
-  03      | 11.07.2023   | Descomposición espectral. <br/>. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Tref., Lecture 4. <br/> [spectral.ipynb](code/spectral.ipynb){:target="_blank"}
-  04      | 13.07.2023   | Descomposición en valores singulares (SVD). <br/>. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Tref., Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"}
+  03      | 11.07.2023   | Descomposición espectral. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Tref., Lecture 4. <br/> [spectral.ipynb](code/spectral.ipynb){:target="_blank"}
+  04      | 13.07.2023   | Descomposición en valores singulares (SVD). <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Tref., Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"}
 
   
 # Proyectos
