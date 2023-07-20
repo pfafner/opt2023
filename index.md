@@ -47,7 +47,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   04      | 13.07.2023   | Descomposición en valores singulares (SVD). <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Tref., Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"}
   05      | 18.07.2023   | Aplicaciones de la descomposición SVD: PCA. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | 
   L1      | 18.07.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 01 de agosto.**
-  
+  06      | 20.07.2023   | Aplicaciones de la descomposición SVD: Aproximaciones de bajo rango.  |  
 
   
 # Proyectos
