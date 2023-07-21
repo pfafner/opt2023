@@ -45,10 +45,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   02      | 06.07.2023   | Ejemplo de norma 2. Conceptos: kernel, nulidad, rango. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Tref. Lecture 3. <br/> [norms.ipynb](code/norms.ipynb){:target="_blank"} 
   03      | 11.07.2023   | Descomposición espectral. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Tref., Lecture 4. <br/> [spectral.ipynb](code/spectral.ipynb){:target="_blank"}
   04      | 13.07.2023   | Descomposición en valores singulares (SVD). <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Tref., Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"}
-  05      | 18.07.2023   | Aplicaciones de la descomposición SVD: PCA. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | 
+  05      | 18.07.2023   | Aplicaciones de la SVD: PCA. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | 
+  06      | 20.07.2023   | Aplicaciones de SVD: Aproximaciones de bajo rango, compresión de imágenes. | [compression.ipynb](code/compression.ipynb){:target="_blank"} <br/> [SVD Compression Demo]([code/svd.ipynb](http://timbaumann.info/svd-image-compression-demo/)){:target="_blank"}
   L1      | 18.07.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 01 de agosto.**
-  06      | 20.07.2023   | Aplicaciones de la descomposición SVD: Aproximaciones de bajo rango.  |  
-
+  
   
 # Proyectos
 <div id='id-proyectos'/>
