@@ -47,7 +47,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   04      | 13.07.2023   | Descomposición en valores singulares (SVD). <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Trefethen-Bau, Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"}
   05      | 18.07.2023   | Aplicaciones de la SVD: PCA. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | 
   06      | 20.07.2023   | Aplicaciones de SVD: Aproximaciones de bajo rango, compresión de imágenes. | [compression.ipynb](code/compression.ipynb){:target="_blank"} <br/> [SVD Compression Demo]([code/svd.ipynb](http://timbaumann.info/svd-image-compression-demo/)){:target="_blank"}
-  L1      | 18.07.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 01 de agosto.**
+  L1      | 18.07.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 01 de agosto.** 
   07      | 25.07.2023   | Estabilidad y condicionamiento. Número de condición. [Aula06a](aulas/Aula06a.pdf){:target="_blank"} [Aula06b](aulas/Aula06b.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
   08      | 27.07.2023   | Eliminación gaussiana. Factoración $LU$ y $PA = LU$. Aplicaciones. [Aula07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6.
   
