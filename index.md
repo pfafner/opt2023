@@ -50,7 +50,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L1      | 18.07.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 01 de agosto.** 
   07      | 25.07.2023   | Estabilidad y condicionamiento. Número de condición. [Aula06a](aulas/Aula06a.pdf){:target="_blank"} [Aula06b](aulas/Aula06b.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
   08      | 27.07.2023   | Eliminación gaussiana. Factoración $LU$ y $PA = LU$. Aplicaciones. [Aula07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6.
-  
+  .       |              |      | 
   
 # Proyectos
 <div id='id-proyectos'/>
