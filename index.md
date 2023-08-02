@@ -51,7 +51,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   07      | 25.07.2023   | Estabilidad y condicionamiento. Número de condición. [Aula06a](aulas/Aula06a.pdf){:target="_blank"} [Aula06b](aulas/Aula06b.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
   08      | 27.07.2023   | Eliminación gaussiana. Factoración $LU$ y $PA = LU$. Aplicaciones. [Aula07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6.
   09      | 01.08.2023   | Técnicas de Pivoteo. <br/> [Aula08](aulas/Aula08.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. <br/> Burden-Faires, Cap. 6. 
-  10      | 01.08.2023   | Tipos especiales de matrices. Factoración LL^T y LDL^T [Aula09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap. 6. 
+  10      | 01.08.2023   | Tipos especiales de matrices. Factoración LL^T y LDL^T. <br/> [Aula09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap. 6. 
   
   
 # Proyectos
