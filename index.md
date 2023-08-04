@@ -52,7 +52,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   08      | 27.07.2023   | Eliminación gaussiana. Factoración $LU$ y $PA = LU$. Aplicaciones. [Aula07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6.
   09      | 01.08.2023   | Técnicas de Pivoteo. <br/> [Aula08](aulas/Aula08.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. <br/> Burden-Faires, Cap. 6. 
   10      | 01.08.2023   | Tipos especiales de matrices. Factoración LL^T y LDL^T. <br/> [Aula09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap. 6. 
-  11      | 03.08.2023   | Matrices positivas definidas. Matrix positiva más cercana. Aplicación de la descomposición de CHolesky.  [cholesky.ipynb](code/cholesky.ipynb){:target="_blank"} [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} | Ver Aula05. <br/> Burden-Faires, Cap. 6. 
+  11      | 03.08.2023   | Matrices positivas definidas. Matrix positiva más cercana. Aplicación de la descomposición de Cholesky. | [cholesky.ipynb](code/cholesky.ipynb){:target="_blank"} <br/> [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
   
   
 # Proyectos
