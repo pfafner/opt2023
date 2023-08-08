@@ -53,7 +53,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   09      | 01.08.2023   | Técnicas de Pivoteo. <br/> [Aula08](aulas/Aula08.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. <br/> Burden-Faires, Cap. 6. 
   10      | 01.08.2023   | Tipos especiales de matrices. Factoración LL^T y LDL^T. <br/> [Aula09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap. 6. 
   11      | 03.08.2023   | Matrices positivas definidas. Matrix positiva más cercana. Aplicación de la descomposición de Cholesky. | [cholesky.ipynb](code/cholesky.ipynb){:target="_blank"} <br/> [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
-  12      | 08.08.2023   | Métodos interativos para sistemas lineales.  |  
+  12      | 08.08.2023   | Métodos iterativos para sistemas lineales.  |  
   L2      | 08.08.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 25 de agosto.** 
   
 # Proyectos
