@@ -55,6 +55,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   11      | 03.08.2023   | Matrices positivas definidas. Matrix positiva más cercana. Aplicación de la descomposición de Cholesky. | [cholesky.ipynb](code/cholesky.ipynb){:target="_blank"} <br/> [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
   12      | 08.08.2023   | Métodos iterativos para sistemas lineales. [Aula10](aulas/Aula10.pdf){:target="_blank"} | Quarteroni *et al.*, Cap. 4. 
   L2      | 08.08.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 25 de agosto.** 
+
   
 # Proyectos
 <div id='id-proyectos'/>
