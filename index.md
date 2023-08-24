@@ -48,14 +48,15 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   05      | 18.07.2023   | Aplicaciones de la SVD: PCA. <br/> [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | 
   06      | 20.07.2023   | Aplicaciones de SVD: Aproximaciones de bajo rango, compresión de imágenes. | [compression.ipynb](code/compression.ipynb){:target="_blank"} <br/> [SVD Compression Demo]([code/svd.ipynb](http://timbaumann.info/svd-image-compression-demo/)){:target="_blank"}
   L1      | 18.07.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 01 de agosto.** 
-  07      | 25.07.2023   | Estabilidad y condicionamiento. Número de condición. [Aula06a](aulas/Aula06a.pdf){:target="_blank"} [Aula06b](aulas/Aula06b.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
-  08      | 27.07.2023   | Eliminación gaussiana. Factoración $LU$ y $PA = LU$. Aplicaciones. [Aula07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6.
-  09      | 01.08.2023   | Técnicas de Pivoteo. <br/> [Aula08](aulas/Aula08.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. <br/> Burden-Faires, Cap. 6. 
-  10      | 01.08.2023   | Tipos especiales de matrices. Factoración LL^T y LDL^T. <br/> [Aula09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap. 6. 
+  07      | 25.07.2023   | Estabilidad y condicionamiento. Número de condición. [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
+  08      | 27.07.2023   | Eliminación gaussiana. Factoración $LU$ y $PA = LU$. Aplicaciones. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6.
+  09      | 01.08.2023   | Técnicas de Pivoteo. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. <br/> Burden-Faires, Cap. 6. 
+  10      | 01.08.2023   | Tipos especiales de matrices. Factoración LL^T y LDL^T. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap. 6. 
   11      | 03.08.2023   | Matrices positivas definidas. Matrix positiva más cercana. Aplicación de la descomposición de Cholesky. | [cholesky.ipynb](code/cholesky.ipynb){:target="_blank"} <br/> [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
-  12      | 08.08.2023   | Métodos iterativos para sistemas lineales. [Aula10](aulas/Aula10.pdf){:target="_blank"} | Quarteroni *et al.*, Cap. 4. 
+  12      | 08.08.2023   | Métodos iterativos para sistemas lineales. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Quarteroni *et al.*, Cap. 4. 
   L2      | 08.08.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 25 de agosto.** 
-  13      | 17.08.2023   | Proyectores. Factoración QR. <br/> [Aula11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10. 
+  13      | 17.08.2023   | Proyectores. Factoración QR. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10. 
+  14      | 22.08.2023   | Cálculo de autovalores. El método de las Potencias. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
   
   
 # Proyectos
