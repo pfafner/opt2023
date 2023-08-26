@@ -58,7 +58,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   13      | 17.08.2023   | Proyectores. Factoración QR. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10. 
   14      | 22.08.2023   | Cálculo de autovalores. El método de las Potencias. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
   15      | 24.08.2023   | Cálculo de autovalores. El método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lectures 26, 28. 
-  16      | 22.08.2023   | Cálculo de autovalores. El método de las Potencias. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
+  16      | 24.08.2023   | Matrices ralas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
   
   
 # Proyectos
