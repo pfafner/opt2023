@@ -57,6 +57,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L2      | 08.08.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 25 de agosto.** 
   13      | 17.08.2023   | Proyectores. Factoración QR. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10. 
   14      | 22.08.2023   | Cálculo de autovalores. El método de las Potencias. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
+  14      | 22.08.2023   | Cálculo de autovalores. El método de las Potencias. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
+  14      | 22.08.2023   | Cálculo de autovalores. El método de las Potencias. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
   
   
 # Proyectos
