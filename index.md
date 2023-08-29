@@ -59,6 +59,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   14      | 22.08.2023   | Cálculo de autovalores. El método de las Potencias. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
   15      | 24.08.2023   | Cálculo de autovalores. El método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lectures 26, 28. 
   16      | 24.08.2023   | Matrices ralas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
+  L3      | 29.08.2023   |   | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: lunes 12 de septiembre.** 
   
   
 # Proyectos
