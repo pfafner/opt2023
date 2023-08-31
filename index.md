@@ -68,6 +68,12 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 En el curso se desarrollarán dos proyectos, los cuales se indicarán más adelante.
 
 
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 29.08.2023   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 28 septiembre.**
+ 
+
+
 # Referencias
 <div id='id-ref'/>
 
