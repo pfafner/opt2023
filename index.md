@@ -61,7 +61,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   16      | 24.08.2023   | Matrices ralas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
   L3      | 29.08.2023   |   | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: lunes 12 de septiembre.** 
   17      | 31.08.2023   | Fundamentos de optimización. <br/>  | 
-  18      |              |   |  
+  18      | 05.09.2023   | Derivadas vectoriales y matriciales.  |  
   
 # Proyectos
 <div id='id-proyectos'/>
