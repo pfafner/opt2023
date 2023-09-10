@@ -63,6 +63,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   17      | 31.08.2023   | Fundamentos de optimización. <br/>  | 
   18      | 05.09.2023   | Derivadas vectoriales y matriciales.  |  
   19      | 07.09.2023   | Fundamentos de optimización II. <br/>  |  
+  .       |              |   |  
+
   
 # Proyectos
 <div id='id-proyectos'/>
