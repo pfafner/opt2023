@@ -63,6 +63,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   17      | 31.08.2023   | Derivadas vectoriales y matriciales. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
   18      | 05.09.2023   | Fundamentos de optimización I. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
   19      | 07.09.2023   | Fundamentos de optimización II. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} |  
+  20      | 19.09.2023   | Funciones convexas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |  
   
   
 # Proyectos
