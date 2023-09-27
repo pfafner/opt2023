@@ -75,7 +75,7 @@ En el curso se desarrollarán dos proyectos, los cuales se indicarán más adela
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 29.08.2023   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 28 de septiembre.** <br/> [plane_half.png](proyectos/plane_half.png){:target="_blank"}
+ 1       | 29.08.2023   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 05 de octubre.** <br/> [plane_half.png](proyectos/plane_half.png){:target="_blank"}
  
 
 
