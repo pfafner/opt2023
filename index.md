@@ -66,7 +66,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   20      | 19.09.2023   | Funciones convexas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |  
   21      | 21.09.2023   | Algoritmos para optimización 1-dimensional. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
   22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
- 
+  23      |              | 
+
   
 # Proyectos
 <div id='id-proyectos'/>
