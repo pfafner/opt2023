@@ -65,7 +65,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   19      | 07.09.2023   | Fundamentos de optimización II. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} |  
   20      | 19.09.2023   | Funciones convexas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Boyd-Vandenberghe. 
   21      | 21.09.2023   | Algoritmos para optimización 1-dimensional. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
-  22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Nocedal-Wright.
+  22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright.
   23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright.
 
   
