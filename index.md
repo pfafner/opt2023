@@ -69,8 +69,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright. 
   24      | 03.10.2023   | Descenso gradiente de Newtoy y hessiano aproximado. | Nocedal-Wright. 
   25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. | Nocedal-Wright. 
+  L4      | 04.10.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 19 de octubre.** 
   
-
   
 # Proyectos
 <div id='id-proyectos'/>
