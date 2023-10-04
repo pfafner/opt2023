@@ -66,8 +66,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   20      | 19.09.2023   | Funciones convexas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Boyd-Vandenberghe. 
   21      | 21.09.2023   | Algoritmos para optimización 1-dimensional. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
   22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright.
-  23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright.
-  24      | 03.10.2023   | Descenso gradiente de Newtoy y hessiano aproximado. | Nocedal-Wright.
+  23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright. 
+  24      | 03.10.2023   | Descenso gradiente de Newtoy y hessiano aproximado. | Nocedal-Wright. 
+  25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. | Nocedal-Wright. 
   
 
   
