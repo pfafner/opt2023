@@ -67,8 +67,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   21      | 21.09.2023   | Algoritmos para optimización 1-dimensional. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
   22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright.
   23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright. 
-  24      | 03.10.2023   | Descenso gradiente de Newtoy y hessiano aproximado. | Nocedal-Wright. 
-  25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. | Nocedal-Wright. 
+  24      | 03.10.2023   | Descenso gradiente de Newton y hessiano aproximado. [Aula 22](aulas/Aula22.pdf){:target="_blank"}| Nocedal-Wright. 
+  25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. [Aula 23](aulas/Aula23.pdf){:target="_blank"}| Nocedal-Wright. 
   L4      | 04.10.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 19 de octubre.** 
   
   
