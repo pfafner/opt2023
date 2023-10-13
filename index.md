@@ -70,8 +70,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   24      | 03.10.2023   | Descenso gradiente de Newton y hessiano aproximado. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright. 
   25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Nocedal-Wright. 
   L4      | 04.10.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 19 de octubre.** 
-  26      | 05.10.2023   | Convergencia del descenso gradiente. Teorema de Zoutendijk. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright. 
-  27      | 10.10.2023   | Convergencia del descenso gradiente. | Nocedal-Wright. 
+  26      | 05.10.2023   | Teorema de Zoutendijk. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright. 
+  27      | 10.10.2023   | Orden de convergencia. Convergencia del descenso gradiente. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright. 
   28      | 12.10.2023   | Convergencia del descenso gradiente. | Nocedal-Wright. 
 
   
