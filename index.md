@@ -72,6 +72,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L4      | 04.10.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 19 de octubre.** 
   26      | 05.10.2023   | Teorema de Zoutendijk. Convergencia del descenso gradiente. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright. 
   27      | 12.10.2023   | Descenso coordenado y Descenso coordenado por Bloques. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
+  28      | 17.10.2023   | Descenso grediente proyectado. Regresión lineal bases de funciones. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
 
   
 # Proyectos
