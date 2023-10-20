@@ -93,6 +93,13 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  4       | 16 al 23.11.2023   | Presentación de proyectos.              | 
  5       | 25.11.2023   | Entrega de informe, código y presentación final. | 
 
+## Proyecto 2 -- Temas seleccionados
+
+**No.**  | Expositores                                   | **Tópico**
+-------- | --------------------------------------------- |  -------------------------------------
+ 17      | Juan Galicia, Stefan Quintana                 | Algoritmos genéticos específicos         
+ 15      | Jeyner Arango, Oscar Méndez                   | Redes neuronales 
+ 
 
 # Referencias
 <div id='id-ref'/>
