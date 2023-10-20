@@ -65,7 +65,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   19      | 07.09.2023   | Fundamentos de optimización II. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Nocedal-Wright, Cap. 1. 
   20      | 19.09.2023   | Funciones convexas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Boyd-Vandenberghe. 
   21      | 21.09.2023   | Algoritmos para optimización 1-dimensional. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2. 
-  22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2..
+  22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2.
   23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright, Cap 2. 
   24      | 03.10.2023   | Descenso gradiente de Newton y hessiano aproximado. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
   25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2. 
@@ -80,13 +80,18 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Proyectos
 <div id='id-proyectos'/>
 
-En el curso se desarrollarán dos proyectos, los cuales se indicarán más adelante.
-
-
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 29.08.2023   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 05 de octubre.** <br/> [plane_half.png](proyectos/plane_half.png){:target="_blank"}
  
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 19.10.2023   | Proyecto 2 - *Optimización*.                  | [Proyecto 2](proyectos/proyecto2.pdf){:target="_blank"} <br/> 
+ 2       | 03.11.2023   | Fecha límite para elegir tema.                | 
+ 3       | 11.11.2023   | Entrega de la presentación (borrador).        | 
+ 4       | 16 al 23.11.2023   | Presentación de proyectos.              | 
+ 5       | 25.11.2023   | Entrega de informe, código y presentación final. | 
 
 
 # Referencias
