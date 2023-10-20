@@ -60,20 +60,21 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   15      | 24.08.2023   | Cálculo de autovalores. El método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lectures 26, 28. 
   16      | 24.08.2023   | Matrices ralas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
   L3      | 29.08.2023   |   | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: lunes 12 de septiembre.** 
-  17      | 31.08.2023   | Derivadas vectoriales y matriciales. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
-  18      | 05.09.2023   | Fundamentos de optimización I. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
-  19      | 07.09.2023   | Fundamentos de optimización II. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} |  
+  17      | 31.08.2023   | Derivadas vectoriales y matriciales. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Fukunaga. App A.
+  18      | 05.09.2023   | Fundamentos de optimización I. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Nocedal-Wright, Cap. 1. 
+  19      | 07.09.2023   | Fundamentos de optimización II. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Nocedal-Wright, Cap. 1. 
   20      | 19.09.2023   | Funciones convexas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Boyd-Vandenberghe. 
-  21      | 21.09.2023   | Algoritmos para optimización 1-dimensional. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
-  22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright.
-  23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright. 
-  24      | 03.10.2023   | Descenso gradiente de Newton y hessiano aproximado. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright. 
-  25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Nocedal-Wright. 
+  21      | 21.09.2023   | Algoritmos para optimización 1-dimensional. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2. 
+  22      | 26.09.2023   | Descenso gradiente. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2..
+  23      | 28.09.2023   | Ejemplos de descenso gradiente. Aspectos prácticos. | Nocedal-Wright, Cap 2. 
+  24      | 03.10.2023   | Descenso gradiente de Newton y hessiano aproximado. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
+  25      | 03.10.2023   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. Backtracking. [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2. 
   L4      | 04.10.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 19 de octubre.** 
-  26      | 05.10.2023   | Teorema de Zoutendijk. Convergencia del descenso gradiente. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright. 
-  27      | 12.10.2023   | Descenso coordenado y Descenso coordenado por Bloques. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
-  28      | 17.10.2023   | Descenso gradiente proyectado. Regresión lineal bases de funciones. [Aula 25](aulas/Aula25.pdf){:target="_blank"}   29      | 19.10.2023   | Gradiente conjugado lineal (versión básica y estándar). [Aula 26](aulas/Aula26.pdf){:target="_blank"} | 
-  30      | 19.10.2023   | Descenso grediente proyectado. Regresión lineal bases de funciones. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
+  26      | 05.10.2023   | Teorema de Zoutendijk. Convergencia del descenso gradiente. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright, Cap 3. 
+  27      | 12.10.2023   | Descenso coordenado y Descenso coordenado por Bloques. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright, Sección 4.5. 
+  28      | 17.10.2023   | Descenso gradiente proyectado. Regresión lineal bases de funciones. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright, Sección 9.3.   
+  29      | 19.10.2023   | Gradiente conjugado lineal (versión básica y estándar). [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Nocedal-Wright, Cap 5.
+  30      | 19.10.2023   | Gradiente conjugado no-lineal: Fletcher-Reeves, Polak-Ribière, Hestenes-Stiefel. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal-Wright, Cap. 5.
 
   
 # Proyectos
