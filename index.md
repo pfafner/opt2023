@@ -97,8 +97,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | Expositores                                   | **Tópico**
 -------- | --------------------------------------------- |  -------------------------------------
- 17      | Juan Galicia, Stefan Quintana                 | Algoritmos genéticos específicos         
- 15      | Jeyner Arango, Oscar Méndez                   | Redes neuronales 
+ 17      | Juan Galicia, Stefan Quintana                 | Algoritmos genéticos         
+ 15      | Jeyner Arango, Oscar Méndez                   | Redes neuronales
+ 18      | Sofía Escobar, Guillermo Furlán               | Algoritmos evolutivos
  
 
 # Referencias
