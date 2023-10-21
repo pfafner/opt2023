@@ -100,6 +100,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  17      | Juan Galicia, Stefan Quintana                 | Algoritmos genéticos         
  15      | Jeyner Arango, Oscar Méndez                   | Redes neuronales
  18      | Sofía Escobar, Guillermo Furlán               | Algoritmos evolutivos
+ 23      | Rudik ROmpich, Alejandro Pallais              | El problema *Knapsack*         
  
 
 # Referencias
