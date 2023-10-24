@@ -94,14 +94,15 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  4       | 16 al 23.11.2023   | Presentación de proyectos.              | 
  5       | 25.11.2023   | Entrega de informe, código y presentación final. | 
 
-## Proyecto 2 -- Temas seleccionados
+### Proyecto 2 -- Temas seleccionados
 
 **No.**  | Expositores                                   | **Tópico**
 -------- | --------------------------------------------- |  -------------------------------------
  17      | Juan Galicia, Stefan Quintana                 | Algoritmos genéticos         
  15      | Jeyner Arango, Oscar Méndez                   | Redes neuronales
  18      | Sofía Escobar, Guillermo Furlán               | Algoritmos evolutivos
- 23      | Rudik ROmpich, Alejandro Pallais              | El problema *Knapsack*         
+ 23      | Rudik Rompich, Alejandro Pallais              | El problema *Knapsack*         
+ 19      | María JOsé Gil, Joshua Chicoj                 | Evolución diferencial         
  
 
 # Referencias
