@@ -102,7 +102,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  15      | Jeyner Arango, Oscar Méndez                   | Redes neuronales
  18      | Sofía Escobar, Guillermo Furlán               | Algoritmos evolutivos
  23      | Rudik Rompich, Alejandro Pallais              | El problema *Knapsack*         
- 19      | María JOsé Gil, Joshua Chicoj                 | Evolución diferencial         
+ 19      | María JOsé Gil, Joshua Chicoj                 | Evolución diferencial  
+ .       | Wilfredo Gallegos, Javier Aguilar             | Algoritmos gradiente estocástico 
+ .       | Elisa Samayoa, Julio Ávila                    | Optimización en grafos
  
 
 # Referencias
