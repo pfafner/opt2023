@@ -75,7 +75,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   28      | 17.10.2023   | Descenso gradiente proyectado. Regresión lineal bases de funciones. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright, Sección 9.3.   
   29      | 19.10.2023   | Gradiente conjugado lineal (versión básica y estándar). [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Nocedal-Wright, Cap 5.
   30      | 19.10.2023   | Gradiente conjugado no-lineal: Fletcher-Reeves, Polak-Ribière, Hestenes-Stiefel. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal-Wright, Cap. 5.
-  31      | 24.10.2023   |   | 
+  31      | 24.10.2023   | Métodos Quasi-Newton: SR1, DFP, BGFS. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap 6.
 
   
 # Proyectos
