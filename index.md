@@ -108,6 +108,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  19      | María JOsé Gil, Joshua Chicoj                 | Evolución diferencial  
  .       | Wilfredo Gallegos, Javier Aguilar             | Algoritmos gradiente estocástico 
  .       | Elisa Samayoa, Julio Ávila                    | Optimización en grafos
+ .       | Juan Fernando Ramírez, Jonathan Espinoza      | Algoritmos de estimación de distribución
  
 
 # Referencias
