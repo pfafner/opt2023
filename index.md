@@ -79,7 +79,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   32      | 26.10.2023   | Optimización sin derivadas: Nelder-Mead. Heurísticas y estrategias de optimización. | 
   33      | 31.10.2023   | Representación en optimización combinatoria. Ejemplos. |  
   L5      | 02.11.2023   |   | [Lista 05](listas/lista05.pdf){:target="_blank"} [cities.csv](listas/cities.csv){:target="_blank"} <br/> **Fecha de entrega: jueves 23 de noviembre.** 
- 
+  34      | 02.11.2023   | Búsqueda local: BFS, DFS, *Beam search*, *Backtracking*, *Taboo search*. |  
+  
   
 # Proyectos
 <div id='id-proyectos'/>
