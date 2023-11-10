@@ -102,16 +102,17 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Proyecto 2 -- Temas seleccionados
 
-**No.**  | Expositores                                   | **Tópico**
--------- | --------------------------------------------- |  -------------------------------------
- 17      | Juan Galicia, Stefan Quintana                 | Algoritmos genéticos         
- 15      | Jeyner Arango, Oscar Méndez                   | Redes neuronales
- 18      | Sofía Escobar, Guillermo Furlán               | Algoritmos evolutivos
- 23      | Rudik Rompich, Alejandro Pallais              | El problema *Knapsack*         
- 19      | María JOsé Gil, Joshua Chicoj                 | Evolución diferencial  
- .       | Wilfredo Gallegos, Javier Aguilar             | Algoritmos gradiente estocástico 
- .       | Elisa Samayoa, Julio Ávila                    | Optimización en grafos
- .       | Juan Fernando Ramírez, Jonathan Espinoza      | Algoritmos de estimación de distribución
+**Equipo** | **Fecha**  | **Expositores**                          | **Tópico**
+---------- | ---------- | ---------------------------------------- |  -------------------------------------
+ 1         | 16.11.2023 | José Gordillo, Juan Luis Solórzano       | TBA         
+ 7         | 16.11.2023 | Rudik Rompich, Alejandro Pallais         | El problema *Knapsack*        
+ 9         | 16.11.2023 | Juan Galicia, Stefan Quintana            | Algoritmos genéticos (GA)  
+ 2         | 21.11.2023 | Elisa Samayoa, Julio Ávila               | *Shortest path problem* 
+ 3         | 21.11.2023 | María José Gil, Joshua Chicoj            | Evolución diferencial (ED)
+ 4         | 21.11.2023 | Juan Fernando Ramírez, Jonathan Espinoza | Algoritmos de estimación de distribución (EDA)
+ 6         | 23.11.2023 | Javier Aguilar, Wilfredo Gallegos        | Gradiente estocástico (SGD)
+ 3         | 23.11.2023 | Jeyner Arango, Oscar Méndez              | Optimización en redes neuronales
+ 8         | 23.11.2023 | Sofía Escobar, Guillermo Furlán          | *Particle swarm optimization* (PSO)
  
 
 # Referencias
