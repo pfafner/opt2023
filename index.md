@@ -104,7 +104,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **Equipo** | **Fecha**  | **Expositores**                          | **Tópico**
 ---------- | ---------- | ---------------------------------------- |  -------------------------------------
- 1         | 16.11.2023 | José Gordillo, Juan Luis Solórzano       | TBA         
+ 1         | 16.11.2023 | José Gordillo, Juan Luis Solórzano       | Métodos de punto interior.      
  7         | 16.11.2023 | Rudik Rompich, Alejandro Pallais         | El problema *Knapsack*        
  9         | 16.11.2023 | Juan Galicia, Stefan Quintana            | Algoritmos genéticos (GA)  
  2         | 21.11.2023 | Elisa Samayoa, Julio Ávila               | *Shortest path problem* 
