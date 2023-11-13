@@ -76,11 +76,11 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   29      | 19.10.2023   | Gradiente conjugado lineal (versión básica y estándar). [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Nocedal-Wright, Cap 5.
   30      | 19.10.2023   | Gradiente conjugado no-lineal: Fletcher-Reeves, Polak-Ribière, Hestenes-Stiefel. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal-Wright, Cap. 5.
   31      | 24.10.2023   | Métodos Quasi-Newton: SR1, DFP, BFGS. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap 6.
-  32      | 26.10.2023   | Optimización sin derivadas: Nelder-Mead. Heurísticas y estrategias de optimización. | 
+  32      | 26.10.2023   | Optimización sin derivadas: Nelder-Mead. Heurísticas y estrategias de optimización. [Aula 29](aulas/Aula29.pdf){:target="_blank"} | 
   33      | 31.10.2023   | Representación en optimización combinatoria. Ejemplos. |  
   L5      | 02.11.2023   |   | [Lista 05](listas/lista05.pdf){:target="_blank"} [cities.csv](listas/cities.csv){:target="_blank"} <br/> **Fecha de entrega: jueves 23 de noviembre.** 
-  34      | 02.11.2023   | Búsqueda local: BFS, DFS, *Beam search*, *Backtracking*, *Taboo search*. |  
-  35      | 07.11.2023   | Algoritmos genéticos (GA).  |  
+  34      | 02.11.2023   | Búsqueda local: BFS, DFS, *Beam search*, *Backtracking*, *Taboo search*. [Aula 30](aulas/Aula30.pdf){:target="_blank"} |  
+  35      | 07.11.2023   | Algoritmos genéticos (GA). <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} |  
   36      | 09.11.2023   | Aplicaciones de GA: Permutaciones, TSP, generación de imágenes. | 
   37      |              |  |  
   
