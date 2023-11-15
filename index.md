@@ -81,7 +81,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L5      | 02.11.2023   |   | [Lista 05](listas/lista05.pdf){:target="_blank"} [cities.csv](listas/cities.csv){:target="_blank"} <br/> **Fecha de entrega: jueves 23 de noviembre.** 
   34      | 02.11.2023   | Búsqueda local: BFS, DFS, *Beam search*, *Backtracking*, *Taboo search*. [Aula 30](aulas/Aula30.pdf){:target="_blank"} |  
   35      | 07.11.2023   | Algoritmos genéticos (GA). <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} |  
-  36      | 09.11.2023   | Aplicaciones de GA: Permutaciones, TSP, generación de imágenes. | [Larrañaga *et al.* GA for TSP](papers/Larrañaga_GA_for_TSP.pdf){:target="_blank"}
+  36      | 09.11.2023   | Aplicaciones de GA: Permutaciones, TSP, generación de imágenes. | [Larrañaga *et al.* GA for TSP](papers/Larranaga_GA_for_TSP.pdf){:target="_blank"}
   37      | 14.11.2023   | Enfriamiento simulado. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} |  
   
 # Proyectos
