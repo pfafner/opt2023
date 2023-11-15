@@ -82,7 +82,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   34      | 02.11.2023   | Búsqueda local: BFS, DFS, *Beam search*, *Backtracking*, *Taboo search*. [Aula 30](aulas/Aula30.pdf){:target="_blank"} |  
   35      | 07.11.2023   | Algoritmos genéticos (GA). <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} |  
   36      | 09.11.2023   | Aplicaciones de GA: Permutaciones, TSP, generación de imágenes. | 
-  37      |              |  |  
+  37      | 14.11.2023   | Enfriamiento simulado. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} |  
   
 # Proyectos
 <div id='id-proyectos'/>
