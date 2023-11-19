@@ -83,6 +83,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   35      | 07.11.2023   | Algoritmos genéticos (GA). <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} |  
   36      | 09.11.2023   | Aplicaciones de GA: Permutaciones, TSP, generación de imágenes. | [Larrañaga *et al.* GA for TSP](papers/Larranaga_GA_for_TSP.pdf){:target="_blank"}
   37      | 14.11.2023   | Enfriamiento simulado. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} |  
+  38      | 16.11.2023   | Presentación de proyectos. <br/>  |  
+
   
 # Proyectos
 <div id='id-proyectos'/>
