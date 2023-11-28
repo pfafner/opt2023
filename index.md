@@ -105,11 +105,11 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **Equipo** | **Fecha**  | **Expositores**                          | **Tópico**
 ---------- | ---------- | ---------------------------------------- |  -------------------------------------
- 1         | 16.11.2023 | José Gordillo, Juan Luis Solórzano       | Métodos de punto interior   
+ 1         | 16.11.2023 | José Gordillo, Juan Luis Solórzano       | Métodos de punto interior <br/> [Presentación](proyectos/Cauchy.pdf){:target="_blank"}   
  7         | 16.11.2023 | Rudik Rompich, Alejandro Pallais         | El problema *Knapsack*        
  9         | 16.11.2023 | Juan Galicia, Stefan Quintana            | Algoritmos genéticos (GA)  
- 2         | 21.11.2023 | Elisa Samayoa, Julio Ávila               | *Shortest path problem* 
- 3         | 21.11.2023 | María José Gil, Joshua Chicoj            | Evolución diferencial (ED)
+ 2         | 21.11.2023 | Elisa Samayoa, Julio Ávila               | *Shortest path problem* <br/> [Presentación](proyectos/ShortestPath.pdf){:target="_blank"}
+ 3         | 21.11.2023 | María José Gil, Joshua Chicoj            | Evolución diferencial (ED) <br/> [Presentación](proyectos/DE.pdf){:target="_blank"} 
  4         | 21.11.2023 | Juan Fernando Ramírez, Jonathan Espinoza | Algoritmos de estimación de distribución (EDA)
  6         | 23.11.2023 | Javier Aguilar, Wilfredo Gallegos        | Gradiente estocástico (SGD)
  3         | 23.11.2023 | Jeyner Arango, Oscar Méndez              | Optimización en redes neuronales
